@@ -9,8 +9,8 @@ Descrição dos arquivos presentes nesse repositório :
 
 **Case Webmotors.ipynb** - Minha solução para o desafio proposto.
 
-**Caso esteja tendo problemas para visualizar o arquivo Case Webmotors.ipynb no github utilize o nbviewr.**
+**Caso esteja tendo problemas para visualizar o arquivo Case Webmotors.ipynb no github utilize o nbviewer.**
 
-Link para o nbviewr : https://nbviewer.org/
+Link para o nbviewer : https://nbviewer.org/
 
 
